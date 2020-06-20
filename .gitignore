@@ -1,11 +1,15 @@
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
-.mvn/wrapper/maven-wrapper.jar
+# comentário.
+.idea/
+.vscode/
+
+# comentário.
+.mvn/
+mvnw.cmd
+mvnw
+
+# comentário.
+HELP.md
+
+# comentário.
+*.iml
+*.log
